@@ -1,0 +1,21 @@
+{
+    "clientId": "CLIENT_ID_HERE",
+    "activity": {
+        "details": "Details text here",
+        "state": "State text here",
+        "largeImageKey": "large_image_key",
+        "largeImageText": "Text from large image here",
+        "smallImageKey": "small_image_key",
+        "smallImageText": "Text from small image here",
+        "buttons": [
+            {
+                "label": "Button Label 1",
+                "url": "URL BUTTON 1 HERE"
+            },
+            {
+                "label": "Button Label 2",
+                "url": "URL BUTTON 2 HERE"
+            }
+        ]
+    }
+}
